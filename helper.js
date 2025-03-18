@@ -1,4 +1,4 @@
-import {BEARER_TOKEN} from "./endpoints";
+import {BEARER_TOKEN} from "./endpoints.js";
 
 
 export const loadOptions = {
