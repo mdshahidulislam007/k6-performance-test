@@ -1,0 +1,19 @@
+{
+  "name": "kirin_wellwa_load_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/k6": "^0.57.1",
+    "k6": "^0.0.0"
+  },
+  "dependencies": {
+    "har-to-k6": "^0.14.8"
+  }
+}
